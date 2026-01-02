@@ -19,7 +19,7 @@
 Aplicación web interactiva para análisis de datos del Titanic y predicción de supervivencia usando Machine Learning.
 
 ### 🌐 Demo en Vivo
-🔗 [Ver aplicación desplegada](URL_AQUI_CUANDO_LA_PUBLIQUES)
+🔗 [Ver aplicación desplegada](https://titanic-passengers-data-app.streamlit.app/)
 
 ### 📋 Descripción
 Esta aplicación permite:
@@ -46,7 +46,7 @@ Esta aplicación permite:
 Interactive web application for Titanic data analysis and survival prediction using Machine Learning.
 
 ### 🌐 Live Demo
-🔗 [View deployed application](URL_AQUI_CUANDO_LA_PUBLIQUES)
+🔗 [View deployed application](https://titanic-passengers-data-app.streamlit.app/)
 
 ### 📋 Description
 This application allows users to:
@@ -76,3 +76,4 @@ This application allows users to:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlospadrondelgado@gmail.com)
 
 ⭐ Si te gustó este proyecto, dale una estrella / If you liked this project, give it a star!
+
