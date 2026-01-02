@@ -1,57 +1,73 @@
 # 🚢 Titanic Data Analysis & Survival Prediction
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🌍 Language / Idioma
+[🇪🇸 Versión en Español](#español) | [🇺🇸 English Version](#english)
+
+---
+
+<a name="español"></a>
+## 🇪🇸 Descripción (Español)
+
 Aplicación web interactiva para análisis de datos del Titanic y predicción de supervivencia usando Machine Learning.
 
-## 🌐 Demo en Vivo
-
+### 🌐 Demo en Vivo
 🔗 [Ver aplicación desplegada](URL_AQUI_CUANDO_LA_PUBLIQUES)
 
-## 📋 Descripción
-
+### 📋 Descripción
 Esta aplicación permite:
+- **Explorar** el dataset completo del Titanic con estadísticas descriptivas.
+- **Filtrar** datos por múltiples variables (clase, sexo, edad, puerto de embarque, etc.).
+- **Visualizar** datos con gráficos interactivos (barras, pie, scatter, heatmap, treemap).
+- **Predecir** la probabilidad de supervivencia usando un modelo de Random Forest.
 
-- **Explorar** el dataset completo del Titanic con estadísticas descriptivas
-- **Filtrar** datos por múltiples variables (clase, sexo, edad, puerto de embarque, etc.)
-- **Visualizar** datos con gráficos interactivos (barras, pie, scatter, heatmap, treemap)
-- **Predecir** la probabilidad de supervivencia usando un modelo de Random Forest
+### ✨ Características
+1. **Descripción de Datos**: Vista completa del dataset e información detallada de cada variable.
+2. **Análisis de Datos**: Filtros dinámicos y 5 tipos de gráficos interactivos con Plotly.
+3. **Inteligencia Artificial**: Modelo Random Forest con predicción en tiempo real e interfaz intuitiva.
 
-## 🛠️ Tecnologías Utilizadas
+### 🎯 Casos de Uso
+- Análisis exploratorio de datos históricos.
+- Visualización de patrones de supervivencia.
+- Aprendizaje de conceptos de Machine Learning.
 
-- **Python 3.x**
-- **Streamlit** - Framework para la interfaz web
-- **Pandas** - Manipulación y análisis de datos
-- **Plotly** - Visualizaciones interactivas
-- **Scikit-learn** - Modelo de Machine Learning (Random Forest)
-- **Seaborn** - Dataset del Titanic
+---
 
-## ✨ Características
+<a name="english"></a>
+## 🇺🇸 Description (English)
 
-### 1. Descripción de Datos
+Interactive web application for Titanic data analysis and survival prediction using Machine Learning.
 
-- Vista completa del dataset
-- Estadísticas descriptivas
-- Información detallada de cada variable
+### 🌐 Live Demo
+🔗 [View deployed application](URL_AQUI_CUANDO_LA_PUBLIQUES)
 
-### 2. Análisis de Datos
+### 📋 Description
+This application allows users to:
+- **Explore** the complete Titanic dataset with descriptive statistics.
+- **Filter** data by multiple variables (class, sex, age, embarkation port, etc.).
+- **Visualize** data with interactive charts (bar, pie, scatter, heatmap, treemap).
+- **Predict** survival probability using a Random Forest model.
 
-- **Filtros dinámicos**: Survived, Pclass, Sex, Embarked, Age, SibSp, Parch, Fare
-- **5 tipos de gráficos**: Bar, Pie, Scatter, Heatmap, Treemap
-- Visualización interactiva con Plotly
+### ✨ Features
+1. **Data Description**: Full dataset view and detailed information for each variable.
+2. **Data Analytics**: Dynamic filters and 5 plot types with interactive Plotly visualizations.
+3. **Artificial Intelligence**: Random Forest model with real-time prediction and intuitive interface.
 
-### 3. Inteligencia Artificial
+### 🎯 Use Cases
+- Exploratory data analysis of historical Titanic data.
+- Survival pattern visualization.
+- Learning Machine Learning and data analysis concepts.
 
-- Modelo Random Forest entrenado con datos históricos
-- Predicción de supervivencia en tiempo real
-- Interfaz intuitiva para introducir datos
+---
 
-## 🎯 Casos de Uso
-
-- Análisis exploratorio de datos históricos del Titanic
-- Visualización de patrones de supervivencia
-- Predicción educativa de supervivencia basada en características
-- Aprendizaje de conceptos de Machine Learning y análisis de datos
-
-## 👨‍💻 Autor
+## 👨‍💻 Autor / Author
 
 **Carlos Padrón**
 
@@ -59,4 +75,4 @@ Esta aplicación permite:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlospadrondelgado@gmail.com)
 
-⭐ Si te gustó este proyecto, dale una estrella en GitHub!
+⭐ Si te gustó este proyecto, dale una estrella / If you liked this project, give it a star!
