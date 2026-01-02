@@ -9,7 +9,7 @@
 ---
 
 ### 🌍 Language / Idioma
-[🇪🇸 Versión en Español](#español) | [🇺🇸 English Version](#english)
+[Versión en Español](#español) | [English Version](#english)
 
 ---
 
@@ -76,5 +76,6 @@ This application allows users to:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlospadrondelgado@gmail.com)
 
 ⭐ Si te gustó este proyecto, dale una estrella / If you liked this project, give it a star!
+
 
 
