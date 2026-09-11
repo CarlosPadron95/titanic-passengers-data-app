@@ -43,7 +43,7 @@ Para ejecutar este proyecto en tu máquina local:
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app.git](https://github.com/CarlosPadron95/titanic-passengers-data-app.git)
+git clone https://github.com/CarlosPadron95/titanic-passengers-data-app.git
 
 # Instalar dependencias
 pip install -r requirements.txt
