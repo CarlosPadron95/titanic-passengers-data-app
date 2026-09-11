@@ -42,12 +42,15 @@ Esta aplicación permite:
 Para ejecutar este proyecto en tu máquina local:
 
 # Clonar el repositorio (asegúrate de poner el enlace correcto)
+
 git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app](https://github.com/CarlosPadron95/titanic-passengers-data-app)
 
 # Instalar dependencias
+
 pip install -r requirements.txt
 
 # Ejecutar la aplicación
+
 streamlit run app.py
 
 ---
@@ -81,12 +84,15 @@ This application allows users to:
 To run this project on your local machine:
 
 # Clone the repository (make sure to put the correct link)
+
 git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app](https://github.com/CarlosPadron95/titanic-passengers-data-app)
 
 # Install dependencies
+
 pip install -r requirements.txt
 
 # Run the application
+
 streamlit run app.py
 
 ---
