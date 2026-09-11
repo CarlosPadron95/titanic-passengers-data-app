@@ -38,6 +38,9 @@ Esta aplicación permite:
 - Visualización de patrones de supervivencia.
 - Aprendizaje de conceptos de Machine Learning.
 
+### ⚙️ Instalación Local
+Para ejecutar este proyecto en tu máquina local:
+
 ```bash
 # Clonar el repositorio
 git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app.git](https://github.com/CarlosPadron95/titanic-passengers-data-app.git)
