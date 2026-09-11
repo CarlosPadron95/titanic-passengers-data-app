@@ -41,16 +41,14 @@ Esta aplicación permite:
 ### ⚙️ Instalación Local
 Para ejecutar este proyecto en tu máquina local:
 
-# Clonar el repositorio (asegúrate de poner el enlace correcto)
-
-git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app](https://github.com/CarlosPadron95/titanic-passengers-data-app)
+```bash
+# Clonar el repositorio
+git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app.git](https://github.com/CarlosPadron95/titanic-passengers-data-app.git)
 
 # Instalar dependencias
-
 pip install -r requirements.txt
 
 # Ejecutar la aplicación
-
 streamlit run app.py
 
 ---
@@ -83,16 +81,14 @@ This application allows users to:
 ### ⚙️ Local Installation
 To run this project on your local machine:
 
-# Clone the repository (make sure to put the correct link)
-
-git clone [https://github.com/CarlosPadron95/titanic-passengers-data-app](https://github.com/CarlosPadron95/titanic-passengers-data-app)
+```bash
+# Clone the repository
+git clone https://github.com/CarlosPadron95/titanic-passengers-data-app.git
 
 # Install dependencies
-
 pip install -r requirements.txt
 
 # Run the application
-
 streamlit run app.py
 
 ---
