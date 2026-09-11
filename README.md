@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 # Ejecutar la aplicación
 streamlit run app.py
-
+```
 ---
 
 <a name="english"></a>
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
-
+```
 ---
 
 ## 👨‍💻 Autor / Author
