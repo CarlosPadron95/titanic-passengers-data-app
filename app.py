@@ -100,7 +100,7 @@ if 'df' not in st.session_state:
 if 'df_fil' not in st.session_state:
     st.session_state['df_fil'] = pd.DataFrame()
 
-st.header("Titanic Passenger Data")
+st.header("Titanic Data Analysis & Survival Prediction")
 
 url_s3 = r"https://conquerblocks-streamlit.s3.eu-west-2.amazonaws.com/titanic-train.csv"
 st.session_state['df'] = get_data(url_s3)
